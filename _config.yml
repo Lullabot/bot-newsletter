@@ -1,0 +1,7 @@
+site_name: 'The Lullabot Newsletter'
+pygments: true
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: newsletter/:title
+baseurl: /
