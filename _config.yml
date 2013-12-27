@@ -4,4 +4,4 @@ markdown: rdiscount
 rdiscount:
   extensions: [smart]
 permalink: newsletter/:title
-baseurl: /
+baseurl: /bot-newsletter/
